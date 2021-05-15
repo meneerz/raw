@@ -146,8 +146,6 @@ http://hottest.fit:8080/Leonard/Leonard/28774
 http://hottest.fit:8080/Leonard/Leonard/28775
 EXTINF:-1 tvg-logo="" group-title="Movies", HBO ID
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies", HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", HBO Hits
 http://hottest.fit:8080/Leonard/Leonard/45764
 #EXTINF:-1 tvg-logo="" group-title="Movies", HBO Family

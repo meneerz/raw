@@ -144,7 +144,7 @@ http://hottest.fit:8080/Leonard/Leonard/28776
 http://hottest.fit:8080/Leonard/Leonard/28774
 #EXTINF:-1 tvg-logo="" group-title="Movies", Fox Movies Action
 http://hottest.fit:8080/Leonard/Leonard/28775
-EXTINF:-1 tvg-logo="" group-title="Movies", HBO ID
+#EXTINF:-1 tvg-logo="" group-title="Movies", HBO ID
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", HBO Hits
 http://hottest.fit:8080/Leonard/Leonard/45764

@@ -76,13 +76,13 @@ http://210.210.155.35:80/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge", Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass_hd.png" group-title="Sports",Astro Super Sport 1
-http://clientportal.link:80/Oktay18/QQmEc2886/23453
+http://clientportal.link:80/Dennis12/HlVdoW574/23453
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass2_hd.png" group-title="Sports",Astro Super Sport 2
-http://clientportal.link:80/Oktay18/QQmEc2886/23452
+http://clientportal.link:80/Dennis12/HlVdoW574/23452
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass3_hd.png" group-title="Sports",Astro Super Sport 3
-http://clientportal.link:80/Oktay18/QQmEc2886/23451
+http://clientportal.link:80/Dennis12/HlVdoW574/23451
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/ass4_hd.png" group-title="Sports",Astro Super Sport 4
-http://clientportal.link:80/Oktay18/QQmEc2886/33973
+http://clientportal.link:80/Dennis12/HlVdoW574/33973
 #EXTINF:-1   tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/fox_sports_1-1.png" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/fox_sports_2.png" group-title="Sports",Fox Sport 2
@@ -90,11 +90,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/fox_sports_2.png" group-title="Sports",Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/tennis_channel.png" group-title="Sports",Tennis Channel FHD
-http://cloudcdn.tk/Oktay18/QQmEc2886/18386
+http://cloudcdn.tk:80/Dennis12/HlVdoW574/18386
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supersport-tennis.png" group-title="Sports",SuperSport Tennis HD
-http://cloudcdn.tk:80/Oktay18/QQmEc2886/54966
+http://cloudcdn.tk:80/Dennis12/HlVdoW574/54966
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 US" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/04/supertennis_hd.jpg" group-title="Sports",Super Tennis FHD
-http://cloudcdn.tk:80/Oktay18/QQmEc2886/4084
+http://cloudcdn.tk:80/Dennis12/HlVdoW574/4084
 #EXTINF:-1 tvg-logo="" group-title="Sports",Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8?checkedby
 #EXTINF:-1 tvg-logo="" group-title="Sports", SPORT TV 1

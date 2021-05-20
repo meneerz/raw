@@ -68,7 +68,9 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hgtv.png" group-title="Knowledge", HGTV
 https://nonton.site:8443/yono22/ishak/37416
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Knowledge", Smithsonian 
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/natgeo.png" group-title="Knowledge", National Geographic
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/nasa_tv.jpeg" group-title="Knowledge",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", CGTN Documentary
@@ -112,42 +114,42 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bt2.png" group-title="Sports", BT Sports 2
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports.png" group-title="Sports", True Sport 1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports2.png" group-title="Sports", True Sport 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports3.png" group-title="Sports", True Sport 3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports4.png" group-title="Sports", True Sport 4
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports5.png" group-title="Sports", True Sport 5
-https://www.livedoomovies.com/02_2sporthd5_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/true1.png" group-title="Sports", True Premier 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/true2.png" group-title="Sports", True Premier 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/true3.png" group-title="Sports", True Premier 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/true4.png" group-title="Sports", True Premier 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/true5.png" group-title="Sports", True Premier 5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="" group-title="Sports",Dubai Sports 1 HD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1   tvg-logo="" group-title="Sports",Dubai Sports 2 HD
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies", AXN
-http://hottest.fit:8080/Leonard/Leonard/28816
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", Fox Life
-http://hottest.fit:8080/Leonard/Leonard/28776
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", Fox Movies
-http://hottest.fit:8080/Leonard/Leonard/28774
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", Fox Movies Action
 http://hottest.fit:8080/Leonard/Leonard/28775
 #EXTINF:-1 tvg-logo="" group-title="Movies", HBO ID
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", HBO Hits
-http://hottest.fit:8080/Leonard/Leonard/45764
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", HBO Family
 http://hottest.fit:8080/Leonard/Leonard/45765
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/flix_logo-1.png", &Flix

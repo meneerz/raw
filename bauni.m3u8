@@ -156,6 +156,10 @@ http://hottest.fit:8080/Leonard/Leonard/45765
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://rudyhutasoit.files.wordpress.com/2021/02/26privc3a9_hd.jpg", &Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="", Hits
+http://210.210.155/35/dr9445/h/h37/02.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="", Hits Movies
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies", Cinema World
@@ -163,7 +167,7 @@ http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Chinese", Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea", TVN
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
+http://185.180.221.194:8278/streams/d/Tvn/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea", TVN Movies
 http://hottest.fit:8080/Leonard/Leonard/28738
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/880680263742894080/MUuQgbht.jpg" group-title="Korea",SBS Star
@@ -184,18 +188,18 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-logo="" group-title="International Channel", RT (Rusia TV)
 http://210.210.155.35:80/qwr9ew/s/s23/01.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Kid", Boomerang
+http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kid", Disney Channel
 http://hottest.fit:8080/Leonard/Leonard/28790
 #EXTINF:-1 tvg-logo="" group-title="Kid", Disney Junior
-http://hottest.fit:8080/Leonard/Leonard/28789
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kid", Nick Junior
-https://cdn12jtedge.useetv.com/joss/130/nickjr/chunklist_w2097786976_b1004100_sleng.m3u8?enc=UOFlXpKdHuP0G3xtGZwgvA&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1616389092
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kid", Nickelodeon
-https://cdn12jtedge.useetv.com/joss/14/nickelodeon/chunklist_w206298502_b684100_sleng.m3u8?enc=j85iqlLQE3sI1RE33Sm6Xw&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1616391017
-#EXTINF:-1 tvg-logo="" group-title="Kid", Duck TV
-https://cdn12jtedge.useetv.com/joss/14/ducktv/chunklist_w567580069_b684100_sleng.m3u8?enc=Eepiikc2js0XqAjSFhUfJQ&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1616389089
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kid", Cartoon Network
-https://cdn12jtedge.useetv.com/joss/130/cartoonnetwork/chunklist_w1768284626_b1004100_sleng.m3u8?enc=L1SUHG2mnZugHChZnwM3ag&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1616389091
+
 #EXTINF:-1 tvg-logo="" group-title="Kid", Dunia Anak
 https://cdn12jtedge.useetv.com/joss/130/duniaanak/chunklist_w2086592930_b1004100_sleng.m3u8?enc=mdcMfkvfu8Tz5GVRThVVkw&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1616389091
 #EXTINF:-1 tvg-logo="" group-title="Kid",Hip Hip Horee
